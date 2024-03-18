@@ -7,7 +7,7 @@
   }
 
   .header {
-    background-image: url("ảnh nền.gif.jpg");
+    background-image: url("./ảnh nền.gif.jpg");
     margin: 10px 15px 10px 15px;
     padding: 30px;
     background-color: #7a7373;
